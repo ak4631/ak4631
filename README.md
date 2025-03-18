@@ -11,7 +11,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on NeuralIT as a Software Developer
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on Full Stack Projects
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ak4631&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ak4631&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ak4631&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SushantKrMishra&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
 [![ak4631's GitHub | Languages Over Time](https://stats.quine.sh/ak4631/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ak4631)
