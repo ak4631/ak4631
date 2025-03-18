@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SushantKrMishra&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ak4631&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 [![ak4631's GitHub | Languages Over Time](https://stats.quine.sh/ak4631/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ak4631)
